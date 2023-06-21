@@ -1,5 +1,5 @@
 ## UASBasProg2022-2023
-#### Nama : Muhamad Mahdi Alethea
+#### Nama : Mohamad Mahdi Alethea
 #### NIM : 312210195
 #### Kelas : TI.22.A.2
 ## DOKUMENTASI
